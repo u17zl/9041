@@ -1,0 +1,13 @@
+#!/bin/sh
+
+for file in *.jpg
+b = egrep .png$
+do
+    if egrep .png$
+    then
+        echo "$b already exists"
+    fi
+
+    if egrep .jpg$
+    then
+        convert 
